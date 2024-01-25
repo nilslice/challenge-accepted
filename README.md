@@ -16,4 +16,4 @@ Follow these instructions: https://github.com/extism/js-pdk
 
 ### Run the C program
 
-./a.out "this is a test"
+`./a.out "this is a test"`
